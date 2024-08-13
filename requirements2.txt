@@ -11,15 +11,11 @@ six~=1.14.0
 powerlaw~=1.4.6
 scikit-learn~=0.23.1
 tensorboard~=2.6.0
-torch==1.10.0+cu102 -f https://download.pytorch.org/whl/torch_stable.html
+#torch==1.10.0+cu102 -f https://download.pytorch.org/whl/torch_stable.html
 #networkx~=2.6.3
 #pyg~=2.0.2 #pytorch geometric bu bu arada
 #pip install torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu102.html
 #pip install torch-sparse -f https://data.pyg.org/whl/torch-1.10.0+cu102.html
-
 #torch-geometric
-
 #pyemd
-
-
 #python run_exp -c "3c_gnnmb.yaml"
